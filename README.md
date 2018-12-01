@@ -25,10 +25,9 @@ _By the time you have reached this section, you should have identified a faculty
 **NOTE**
 
 
-<table> 
-
+<div style="border:1px solid green"> 
 	If your interested professor is in the same department as you, let your advisor introduce you to her/him. If you get to talk with the professor successfully, skip this section and go straight to [Section 4](#section4). 
-</table>
+</div>
 
 
 
