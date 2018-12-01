@@ -24,8 +24,30 @@ _By the time you have reached this section, you should have identified a faculty
 
 **NOTE**
 
+|---
 |If your interested professor is in the same department as you, let your advisor introduce you to her/him. If you get to talk with the professor successfully, skip this section and go straight to [Section 4](#section4).|
 |---|
+
+
+When you have your resumé and academic record prepared, compose an email in a format as follows:
+
+`Dear Prof. X/Dr. X,
+        
+My name is <Your Name>, and I am a <Your Year> majoring in <Your Major>. I am very interested in your research on <Research Area> because <Your reason>. (I would like to get involved in research because...) Would it be possible for us to meet some time this or next week to discuss about opportunities to carry out a research project? 
+
+My available time slots are:
+
+<Your Schedule>
+
+I am looking forward to talking with you. Please feel free to refer to the attached resumé and academic record for more information.
+
+Many thanks!
+
+Sincerely,
+<Your Name>
+<Your Contact>`
+
+
 
 
 # <a id="section4"></a> Section 4: Prepare for Your First Research Meeting
