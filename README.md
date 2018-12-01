@@ -1,8 +1,8 @@
-# Overview
+# <a id="overview"></a> Overview
 
 Conducting a research project requires time commitment and responsibilities. Before getting started, be sure to talk to your academic advisor and make a reasonable schedule. 
 
-# Find A Research Supervisor
+# <a id="section1"></a> Section 1: Find A Research Supervisor
 
 * **If you would like to do research either within or outside your own department, take a look at the faculty page on the department’s website.** Usually faculty members list their research interest out on their personal page. You could also read the titles of their most recent publications to get a sense of what they are up to.
 
@@ -15,22 +15,22 @@ Conducting a research project requires time commitment and responsibilities. Bef
 * **Talk to fellow students who are already involved in research with a faculty.** They could provide useful feedback about a faculty’s research area, as well as their personality, work style, and expectations for a student researcher.
 
 
-# Prepare Relevant Documents
+# <a id="section2"></a> Section 2: Prepare Relevant Documents
 
-# Cold Email Faculty Member
+# <a id="section3"></a> Section 3: Cold Email Faculty Member
 
 _By the time you have reached this section, you should have identified a faculty whom you are interested in working with for your research project and have your resumé and transcript ready. If not, go back to Section 1 on Page 2 to identify a faculty member or Section 2 on Page ? to prepare your documents._
 
 
 **NOTE**
 
-| If your interested professor is in the same department as you, let your advisor introduce you to her/him. If you get to talk with the professor successfully, skip this section and go straight to [Prepare for Your First Research Meeting](#first_meeting).|
-| ---|
+|If your interested professor is in the same department as you, let your advisor introduce you to her/him. If you get to talk with the professor successfully, skip this section and go straight to [Section 4](#section4).|
+|---|
 
 
-# <a id="first_meeting"></a>Prepare for Your First Research Meeting
+# <a id="section4"></a> Section 4: Prepare for Your First Research Meeting
 
-# Section A: Identify Any Research Programs/Grants (optional)
+# <a id="sectionA"></a> Section A: Identify Any Research Programs/Grants (optional)
 
-# Section B: Politely Reject Professor When Multiple Potential Candidates Said ‘Yes’
+# <a id="sectionB"></a> Section B: Politely Reject Professor When Multiple Potential Candidates Said ‘Yes’
 
