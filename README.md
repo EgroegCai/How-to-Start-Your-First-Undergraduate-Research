@@ -31,7 +31,7 @@ _By the time you have reached this section, you should have identified a faculty
 
 When you have your resumé and academic record prepared, compose an email in a format as follows:
 
-<a style="font-family:comic-sans">
+<p style="font-family:comic-sans">
 Dear Prof. X/Dr. X,
         
 My name is <Your Name>, and I am a <Your Year> majoring in <Your Major>. I am very interested in your research on <Research Area> because <Your reason>. (I would like to get involved in research because...) Would it be possible for us to meet some time this or next week to discuss about opportunities to carry out a research project? 
@@ -47,7 +47,7 @@ Many thanks!
 Sincerely,
 <Your Name>
 <Your Contact>
-</a>
+</p>
 
 At the end of your email, attach your resumé and academic record.
 
